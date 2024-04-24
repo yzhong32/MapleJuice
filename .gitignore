@@ -1,0 +1,7 @@
+.DS_Store
+*.log
+testing_lang/
+log*
+test*
+logs.txt
+local/
